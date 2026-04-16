@@ -1,11 +1,11 @@
 ---
-name: saiadmin-plugin
-description: Guide for developing SaiAdmin plugins, encompassing both the Webman backend and Vue/Nuxt frontend. Use this skill when the user wants to create a new plugin, understand the plugin structure, or add features to an existing SaiAdmin plugin.
+name: saiadmin6
+description: Guide for developing SaiAdmin6.x plugins, encompassing both the Webman backend and Vue/Nuxt frontend. Use this skill when the user wants to create a new plugin, understand the plugin structure, or add features to an existing SaiAdmin6.x plugin.
 ---
 
 # SaiAdmin Plugin Development
 
-This skill provides guidance on the standard structure and development workflow for SaiAdmin plugins, based on the `saiadmin6.x` architecture.
+This skill provides guidance on the standard structure and development workflow for SaiAdmin6.x plugins, based on the `saiadmin6.x` architecture.
 
 ## Overview
 
