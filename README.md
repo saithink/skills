@@ -7,7 +7,7 @@
 ### 方式一 通过 npx skills 进行安装
 
 ```bash
-npx skills add https://github.com/saithink/skills --skill saiadmin6.x
+npx skills add https://github.com/saithink/skills --skill saiadmin6
 ```
 
 ### 方式二 直接在 `github` 上拷贝到本地，放入对应项目的 `skills`
