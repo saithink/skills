@@ -18,4 +18,4 @@ npx skills add https://github.com/saithink/skills --skill saiadmin6
 
 ## 包含的技能
 
-- [./skills/saiadmin6.x](./skills/saiadmin6) - SaiAdmin 6.x 技能
+- [./skills/saiadmin6](./skills/saiadmin6) - SaiAdmin 6.x 技能
