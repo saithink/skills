@@ -14,8 +14,8 @@ npx skills add https://github.com/saithink/skills --skill saiadmin6
 
 ## 使用方法
 
-在 AI 开发工具 中直接提及 skill 名称：
+在 AI 开发工具 中直接提及 skill 名称：saiadmin6
 
 ## 包含的技能
 
-- [./skills/saiadmin6.x](./skills/saiadmin6.x) - SaiAdmin 6.x 技能
+- [./skills/saiadmin6.x](./skills/saiadmin6) - SaiAdmin 6.x 技能
